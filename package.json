@@ -1,0 +1,25 @@
+{
+  "name": "imagina-middleware",
+  "version": "0.1.0",
+  "description": "Middleware to dynamically resize images based on Imagina Library",
+  "main": "lib/imagina-middleware",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/esnunes/imagina-middleware"
+  },
+  "keywords": [
+    "imagina",
+    "image",
+    "resize",
+    "dynamically"
+  ],
+  "author": "Eduardo Nunes",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/esnunes/imagina-middleware/issues"
+  },
+  "homepage": "https://github.com/esnunes/imagina-middleware",
+  "dependencies": {
+    "imagina": "~0.1.1"
+  }
+}
