@@ -1,7 +1,7 @@
 {
   "name": "imagina-middleware",
   "version": "0.1.0",
-  "description": "Middleware to dynamically resize images based on Imagina Library",
+  "description": "Express middleware to dynamically resize images based on Imagina Library",
   "main": "lib/imagina-middleware",
   "repository": {
     "type": "git",
